@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+body {
+ background-color: black;
+  min-height: 100vh;
+  text-align: center;
+}
+
+h1 {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  color: #B0FF1C;
+}
+
+h2 {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  color: #FF075C;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  color: #338CFF;
+}
+
+ul {
+  text-align: left;
+  color: #FF6435;
+
+</style>
+</head>
+</html>
